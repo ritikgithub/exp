@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 //            }
         }
 
-       Log.d("ritik","Main Activity onCreate function")
+       Log.d("ritik","Main Activity onCreate function ")
 
     }
 
