@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         var fragment2 = SecondFragment()
 
         supportFragmentManager.beginTransaction().apply {
-            add(R.id.frm2,fragment1,"Fragment One")
+            add(R.id.frm2,fragment1,"Fragmentt One")
             commit()
         }
 
