@@ -14,7 +14,7 @@ class FirstFragment : Fragment() {
 
     override fun onAttach(context: Context) {
         super.onAttach(context)
-        Log.d("ritik","Fragment 1 onAttach")
+        Log.d("ritik","Fragmentt 1 onAttach")
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
