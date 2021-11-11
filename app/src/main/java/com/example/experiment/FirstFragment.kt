@@ -18,7 +18,7 @@ class FirstFragment : Fragment() {
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        Log.d("ritik","Fragment 1 onCreate")
+        Log.d("ritik","Fragment 1 onCreate"   )
     }
 
     override fun onCreateView(
