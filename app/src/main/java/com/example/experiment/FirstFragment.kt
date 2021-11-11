@@ -11,7 +11,7 @@ import android.widget.Button
 import android.widget.TextView
 
 class FirstFragment : Fragment() {
-
+//first Fragment remote
     override fun onAttach(context: Context) {
         super.onAttach(context)
         Log.d("ritik","Fragmentt 1 onAttach")
