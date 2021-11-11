@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
        // var view = fragment?.view?.rootView
      //   Log.d("ritik","${view?.findViewById<TextView>(R.id.f1tv)?.text} sdd")
 //        var textView  = findViewById<TextView>(R.id.f1tv)
-//        Log.d("ritik",textView.text.toString())
+//          Log.d("ritik",textView.text.toString())  
 
     }
 
