@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
        Log.d("ritik","Main Activity onCreate function   ")
 
     }
-
+//anskfjdsdfkjnjfd
     override fun onStart() {
         super.onStart()
         Log.d("ritik","Main Activity onStart")
