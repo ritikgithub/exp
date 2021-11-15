@@ -67,7 +67,7 @@ class MainActivity : AppCompatActivity() {
         super.onStop()
         Log.d("ritik", "Main Activity On Stop")
     }
-
+//sldfnkjsnd
     override fun onRestart() {
         super.onRestart()
         Log.d("ritik","Main ACtivity onRestart")
