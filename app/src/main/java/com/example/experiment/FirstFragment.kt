@@ -11,6 +11,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
 //first fragment
+//first fragment local changes
 class FirstFragment : Fragment() {
 //first Fragment remote
     override fun onAttach(context: Context) {
